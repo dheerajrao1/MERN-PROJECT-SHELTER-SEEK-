@@ -23,6 +23,3 @@ Shelter Seek is a web application designed to manage tasks assigned to volunteer
 ```bash
 git clone https://github.com/USERNAME/shelter-seek.git
 cd shelter-seek
-### Screenshots
-![Home Page](./screenshots/home.png)
-![Volunteer registration](./screenshots/volunteer_login.png)
